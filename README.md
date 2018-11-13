@@ -33,10 +33,7 @@ $ git clone https://github.com/amitchell94/spring-restful-web-service.git
 
 ### Prerequisites
 
-In order to execute this program you will need to install the Java JDK.
-
-### Installing
-To get the development environment up and running, you will first need to create the database.
+In order to execute this program you will need have the Java JDK installed.
 
 ## Built With
 
