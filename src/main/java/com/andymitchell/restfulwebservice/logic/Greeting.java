@@ -1,4 +1,4 @@
-package com.andymitchell.restfulwebservice;
+package com.andymitchell.restfulwebservice.logic;
 
 public class Greeting {
 
